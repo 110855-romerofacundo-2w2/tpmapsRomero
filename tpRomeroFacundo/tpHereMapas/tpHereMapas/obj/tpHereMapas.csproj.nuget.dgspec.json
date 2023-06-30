@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\disco terror\\Programacion - CARRERA\\1er cuatrimestre\\4 - PIII - Programacion 3\\2023\\tpHereMapas\\tpHereMapas\\tpHereMapas.csproj": {}
+  },
+  "projects": {
+    "D:\\disco terror\\Programacion - CARRERA\\1er cuatrimestre\\4 - PIII - Programacion 3\\2023\\tpHereMapas\\tpHereMapas\\tpHereMapas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\disco terror\\Programacion - CARRERA\\1er cuatrimestre\\4 - PIII - Programacion 3\\2023\\tpHereMapas\\tpHereMapas\\tpHereMapas.csproj",
+        "projectName": "tpHereMapas",
+        "projectPath": "D:\\disco terror\\Programacion - CARRERA\\1er cuatrimestre\\4 - PIII - Programacion 3\\2023\\tpHereMapas\\tpHereMapas\\tpHereMapas.csproj",
+        "packagesPath": "C:\\Users\\facur\\.nuget\\packages\\",
+        "outputPath": "D:\\disco terror\\Programacion - CARRERA\\1er cuatrimestre\\4 - PIII - Programacion 3\\2023\\tpHereMapas\\tpHereMapas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\facur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.19, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
